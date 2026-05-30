@@ -11,9 +11,9 @@ Projeto criado para demonstrar conhecimentos em QA.
 
 ## Cenários Automatizados
 
-- Login válido
-- Login inválido
-- Cadastro de usuário
+- Login com sucesso
+- Login com senha inválida
+- Login com e-mail inválido
 
 ## Como executar
 
