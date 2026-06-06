@@ -4,7 +4,7 @@
 describe('login', () => {
 
 
-   //Cenario 1 teste teste
+   //Cenario 1
    
    it('login com sucesso', () => {
     // abre o app
